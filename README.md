@@ -1,2 +1,3 @@
 # DinoPark-2017
-repo for Dino Park 2017, the testbed for CS3S667
+
+a nature simulation for ankylosaurus that involved running/fighting enemies, searching for food/water and herding
